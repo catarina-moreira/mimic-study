@@ -7,5 +7,7 @@ Information that is consistent for the lifetime of a patient is stored in this t
 
 ## Detailed Description
 
-<span style="color:red;">subject_id</span>
+```diff
+- subject_id
+```
 
