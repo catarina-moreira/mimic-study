@@ -17,5 +17,8 @@ Detailed description can be found [here](https://github.com/catarina-moreira/mim
 
 ![Database strcuture](https://github.com/catarina-moreira/mimic-study/blob/4d8f269a9a0bb83498af82cfe5deacc765da6e48/imgs/mimic_iv_hosp.png)
 
+### ED (part of MIMIC-IV ED v0.4)
+Detailed description can be found [here](https://github.com/catarina-moreira/mimic-study/blob/main/MIMIC_Data_Description/HOSP/HOSP.md)
 
+![Database strcuture](https://github.com/catarina-moreira/mimic-study/blob/4d8f269a9a0bb83498af82cfe5deacc765da6e48/imgs/mimic_iv_hosp.png)
 
