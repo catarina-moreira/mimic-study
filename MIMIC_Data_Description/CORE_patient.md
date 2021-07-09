@@ -8,7 +8,7 @@ Information that is consistent for the lifetime of a patient is stored in this t
 ## Detailed Description 
 
 ```diff
-- subject_id [create an anchor](#anchors-in-markdown)
+- subject_id
 ```
 subject_id is a unique identifier which specifies an individual patient. 
 Any rows associated with a single subject_id pertain to the same individual. 
