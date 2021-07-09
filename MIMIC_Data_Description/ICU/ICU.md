@@ -1,6 +1,5 @@
 # ICU Module
 
-
 ## Table Description
 
 The ICU module contains information collected from the clinical information system used within the ICU. Documented data includes intravenous administrations, ventilator settings, and other charted items.
